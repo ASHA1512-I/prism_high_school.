@@ -151,6 +151,12 @@ h2 {
     margin: 1rem 0;
 }
 
+.value {
+    display: flex;
+    justify-content: justify;
+    flex-wrap: wrap;
+}
+
 /* New Stats Section */
 #stats {
     background: linear-gradient(135deg, #003087, #0044aa);
